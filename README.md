@@ -12,6 +12,12 @@ Ran:
  npm i -D autoprefixer node-sass postcss sass svelte-preprocess
 ```
 
+Then cleaned up global.css, etc (kermit)
+
+And added material button (kermit)
+
+Added preprocess step as per [here](https://youtu.be/-6Hy3MHfPhA?t=653) (kermit)
+
 
 
 # This repo is no longer maintained. Consider using `npm init vite` and selecting the `svelte` option or — if you want a full-fledged app framework and don't mind using pre-1.0 software — use [SvelteKit](https://kit.svelte.dev), the official application framework for Svelte.
